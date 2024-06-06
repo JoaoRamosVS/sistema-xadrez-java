@@ -11,5 +11,8 @@ O desenvolvimento deste projeto se baseia em conceitos de OOP (Object-Oriented P
 
 Abaixo segue o diagrama explicativo de classes e camadas utilizadas neste projeto.
 
+![chess-system-design](https://github.com/JoaoRamosVS/sistema-xadrez-java/assets/99658420/35594a7c-ed37-4f8f-9a4f-2f8a0119ed01)
+
+
 
 
