@@ -2,6 +2,9 @@
 #### Desenvolvido em Java
 
 Este projeto tem como finalidade simular em formato de algoritmo uma partida de xadrez, sendo desenvolvido como projeto complementar do curso completo de Java realizado na Udemy com o professor Nélio Alves.
+#
+Outros projetos mais simples desenvolvidos ao longo do curso se encontram no meu outro repositório:
+[Repositório Curso Java-Udemy](https://github.com/JoaoRamosVS/Java-Udemy)
 
 ## Fundamentos
 
